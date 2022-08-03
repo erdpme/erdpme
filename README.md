@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erdpme
-- 👀 I’m interested in IDK
+- 👀 I’m interested in something new
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me me@erdp.me
 
